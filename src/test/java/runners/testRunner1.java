@@ -9,7 +9,7 @@ import io.cucumber.testng.CucumberOptions;
 
 
 @CucumberOptions(
-		features = "src/test/resources/parallel/Feature02.feature", 
+		features = "src/test/resources/parallel/", 
 glue = { "parallel" },
 		/*
 		 * tags= "@Smoke and @Regression", tags= "@Smoke and @Regression",

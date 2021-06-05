@@ -10,6 +10,10 @@ Starting your automation project
 -Maven
  1- mvn clean install
  2- mvn verify
+ 
+ 
+Report
+Please Navigate to test-output>SparkReport>index.html
 
 
 
